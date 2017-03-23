@@ -1,0 +1,6 @@
+framework module ReapalNetwork {
+  umbrella header "ReapalNetwork.h"
+
+  export *
+  module * { export * }
+}
